@@ -69,3 +69,8 @@ fullstack-demo/
 ## 安装与运行
 
 请参考项目根目录下的`TEST_INSTRUCTIONS.md`文件获取详细的运行说明。
+
+---
+
+以上全部由 Manus 生成，过程如下：
+[live replay](https://manus.im/share/qL01nJZkIfVrtDxHeuNctx?replay=1)
